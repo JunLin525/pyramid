@@ -4,6 +4,7 @@ Version: 0.0.0
 Requires-Dist: pyramid
 Requires-Dist: waitress
 Requires-Dist: pyramid_chameleon
+Requires-Dist: pyramid_jinja2
 Provides-Extra: dev
 Requires-Dist: pyramid_debugtoolbar; extra == "dev"
 Requires-Dist: pytest; extra == "dev"

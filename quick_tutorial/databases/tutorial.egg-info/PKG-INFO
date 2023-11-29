@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: tutorial
+Version: 0.0.0
+Requires-Dist: deform
+Requires-Dist: pyramid
+Requires-Dist: waitress
+Requires-Dist: pyramid_chameleon
+Requires-Dist: pyramid_tm
+Requires-Dist: sqlalchemy
+Requires-Dist: zope.sqlalchemy
+Provides-Extra: dev
+Requires-Dist: pyramid_debugtoolbar; extra == "dev"
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: webtest; extra == "dev"

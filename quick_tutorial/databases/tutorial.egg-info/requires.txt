@@ -1,0 +1,12 @@
+deform
+pyramid
+waitress
+pyramid_chameleon
+pyramid_tm
+sqlalchemy
+zope.sqlalchemy
+
+[dev]
+pyramid_debugtoolbar
+pytest
+webtest
